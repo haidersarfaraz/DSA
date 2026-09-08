@@ -16,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/haidersarfaraz/DSA/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/haidersarfaraz/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/haidersarfaraz/DSA/tree/master/0002-add-two-numbers) |
+| [0160-intersection-of-two-linked-lists](https://github.com/haidersarfaraz/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/haidersarfaraz/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/haidersarfaraz/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/haidersarfaraz/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Matrix
 |  |
 | ------- |
